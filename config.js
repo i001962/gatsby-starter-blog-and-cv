@@ -1,38 +1,38 @@
 module.exports = {
   url: 'https://gatsby-starter-blog-and-cv.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'Kevin McDonald CV',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
+    'content authenticity initiative, ethereum, gundb, bitcoin, bees',
   subtitle: 'Developer. Optimizer. Learner.',
-  copyright: '© 2020 | Kyiv, Ukraine',
-  disqusShortname: 'dospolov',
+  copyright: '© 2021 | All rights reserved',
+  disqusShortname: 'i001962',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: 'UA-xxxxxxx-7',
   menu: [
-    {
-      label: 'Blog',
-      path: '/'
-    },
     {
       label: 'CV',
       path: '/cv'
+    },
+    {
+      label: 'BLOG',
+      path: '/'
     }
   ],
   author: {
-    name: 'Marat Dospolov',
+    name: 'Kevin McDonald',
     photo: '/photo.jpg',
-    bio: 'Developer. Optimizer. Learner.',
+    bio: 'Entrepreneuer. Hacker. Mentor.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'dospolov',
-      twitter: 'marat_dospolov',
-      linkedin: 'dospolov',
-      telegram: 'dospolov',
-      instagram: 'dospolov',
-      facebook: 'dospolov',
-      email: '',
+      github: 'i001962',
+      twitter: 'i001962',
+      linkedin: 'kmcdonald',
+      telegram: 'i001962',
+      instagram: 'i001962',
+      facebook: 'i001962',
+      email: 'i001962@gmail.com',
       rss: '/rss.xml'
     }
   }

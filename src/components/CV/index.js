@@ -8,6 +8,7 @@ import Experience from './Experience'
 import PitchLine from './PitchLine'
 import Volunteer from './Volunteer'
 import Education from './Education'
+import Publications from './Publications'
 import Experiments from './Experiments'
 import Recommendations from './Recommendations'
 import Footer from './Footer'
@@ -16,7 +17,7 @@ import data from './data.json'
 const { Content } = Layout
 const CV = () => (
   <>
-    <Sidebar hideMobile={true} />
+    <Sidebar hideMobile={true} /> 
     <Content className="m-5">
       {data.header && <Header header={data.header} />}
       {data.experiments && (
@@ -28,6 +29,8 @@ const CV = () => (
       {data.experience && <Experience experience={data.experience} />}
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
       {data.education && <Education education={data.education} />}
+      {data.publication && <Publications publication={data.publication} />}
+
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
       {data.footer && <Footer footer={data.footer} />}
     </Content>

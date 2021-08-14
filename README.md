@@ -4,6 +4,8 @@
 </h1>
 
 <p>
+    Forked from the official Gatsby starter for creating a blog and a CV. They get all the credit. I just added a few things to make it easier for me to use.
+</p>><p>
     Inspired by <a href="https://github.com/alxshelepenok/gatsby-starter-lumen">gatsby-starter-lumen</a>
 </p>
 

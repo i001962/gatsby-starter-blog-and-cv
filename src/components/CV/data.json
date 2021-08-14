@@ -1,66 +1,117 @@
 {
   "header": {
-    "name": "MARAT DOSPOLOV",
-    "position": "JAVASCRIPT TECH LEADER",
+    "name": "KEVIN MCDONALD",
+    "position": "ENTREPRENEURIAL TECH LEADER AND HACKER",
     "img": {
-      "src": "/photo.jpg",
-      "alt": "Marat Dospolov"
+      "src": "photo.jpg",
+      "alt": "Kevin McDonald"
     },
-    "location": "Ukraine, Kyiv",
+    "location": "Woodside, CA",
     "contacts": [
       {
         "type": "telegram",
-        "link": "https://t.me/dospolov",
-        "linkName": "dospolov"
+        "link": "https://t.me/i001962",
+        "linkName": "i001962"
       },
       {
         "type": "github",
-        "link": "https://github.com/dospolov",
-        "linkName": "dospolov"
+        "link": "https://github.com/i001962",
+        "linkName": "i001962"
       }
     ]
   },
   "experiments": [
     {
-      "name": "Account Surfer",
+      "name": "Excel Sidebar App",
       "locationIcon": "windows-store.svg",
-      "description": "Quickly switch between accounts and browsers",
-      "builtWith": ["electron", "react", "redux", "reduxsaga", "fabric"],
-      "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
+      "description": "Create correlated 'SIP Math' distributions in Excel",
+      "builtWith": [
+        "excel",
+        "javascript"
+      ],
+      "link": "https://github.com/i001962/DistHeaven",
+      "sourceCode": "https://github.com/i001962/DistHeaven"
     },
     {
-      "name": "Trello Bookmark",
+      "name": "Chrome Extention",
       "locationIcon": "chrome-webstore.svg",
-      "description": "Store your bookmarks as Trello Cards",
-      "builtWith": ["apollo", "react", "antd"],
-      "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
-      "sourceCode": "https://github.com/dospolov/trello-bookmark"
+      "description": "Sync LinkedIn Profiles with GunDB ",
+      "builtWith": [
+        "javascript",
+        "gundb"
+      ],
+      "link": "https://github.com/i001962/linkedin-to-jsonresume",
+      "sourceCode": "https://github.com/i001962/linkedin-to-jsonresume"
     },
     {
-      "name": "Blog",
-      "locationIcon": "chrome.svg",
-      "description": "Read about productivity and development",
-      "builtWith": ["gatsby", "react", "netlify"],
-      "link": "https://dospolov.com",
-      "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
+      "name": "Gatsby Plug-in",
+      "locationIcon": "gatsby.svg",
+      "description": "Blockchain data sealer",
+      "builtWith": [
+        "gatsby",
+        "react",
+        "bitcoin",
+        "ethereum"
+      ],
+      "link": "https://www.gatsbyjs.com/plugins/gatsby-plugin-cryptowerk-blockchain/?=blockchain",
+      "sourceCode": "https://github.com/i001962/gatsby-plugin-cryptowerk-blockchain"
     }
   ],
-  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
+  "pitchLine": "I am passionate about data privacy, permissionless systems and saving the bees.",
   "topTech": [
-    "react",
-    "graphql",
-    "apollo",
-    "redux",
-    "reduxsaga",
-    "electron",
-    "gatsby",
-    "antd"
+    "cai",
+    "ethereum",
+    "gundb",
+    "bitcoin",
+    "bees"
   ],
   "tech": {
     "react": {
       "name": "React",
       "logo": "react.svg",
       "website": "https://github.com/facebook/react",
+      "displayInTopList": true
+    },
+    "cai": {
+      "name": "Fight Fakes",
+      "logo": "cai.png",
+      "website": "https://contentauthenticity.org/",
+      "displayInTopList": true
+    },
+    "gundb": {
+      "name": "Decentralized Data Sync",
+      "logo": "gundb.svg",
+      "website": "https://github.com/amark/gun",
+      "displayInTopList": true
+    },
+    "bitcoin": {
+      "name": "Inclusive Banking",
+      "logo": "bitcoin.svg",
+      "website": "https://bitcoin.org/en/",
+      "displayInTopList": true
+    },
+    "bees": {
+      "name": "Save The Bees",
+      "logo": "bees.png",
+      "website": "https://savethebees.com/",
+      "displayInTopList": true
+    },
+    "ethereum": {
+      "name": "Smart Contracts / DAOs",
+      "logo": "ethereum.svg",
+      "website": "https://ethereum.org",
+      "displayInTopList": true
+    },
+    "excel": {
+      "name": "Excel",
+      "logo": "excel.svg",
+      "website": "https://developer.microsoft.com/en-us/",
+      "displayInTopList": true
+    },
+    "javascript": {
+      "name": "JavaScript",
+      "logo": "javascript.svg",
+      "website": "https://www.javascript.com/",
       "displayInTopList": true
     },
     "graphql": {
@@ -121,239 +172,259 @@
   "skills": {
     "soft": {
       "featured": [
-        "Focus on business needs",
+        "Idea to Revenue",
+        "Stagnant to Growth",
+        "Shepherding Geniuses",
         "Team building / Leadership",
         "Coaching",
         "Decision making",
-        "Communication",
         "Integrity"
       ],
       "other": [
-        "Scheduling",
         "Risk Management",
-        "Critical Thinking",
-        "Problem Solving",
+        "Creative problem solving",
         "Project Recovery",
-        "Task Management",
-        "Business Process Improvement",
-        "Budgeting",
         "UX Prototyping",
-        "Requirements Analysis",
+        "Positioning / Messaging",
         "Conflict Management",
-        "Policy Knowledge"
+        "Product Roadmaps",
+        "User Research"
       ]
     },
     "hard": {
-      "featured": ["Webpack", "ES6 / ES2017"],
+      "featured": [
+        "JavaScript",
+        "GunDB",
+        "IPFS",
+        "Gatsby",
+        "Probability Management",
+        "Monte Carlo Simulation",
+        "REST APIs",
+        "GraphQL"
+      ],
       "other": [
-        "Adobe Photoshop",
-        "Angular.js",
+        "web3.js",
         "AWS",
         "Bootstrap",
-        "Backbone.js",
-        "CSS 3",
         "GIT",
-        "Gulp",
-        "Google Maps API",
         "D3.js",
-        "Ember.js",
-        "Fabric UI",
+        "Vega.js",
         "Figma",
-        "Handlebars",
-        "HG",
-        "HTML 5",
-        "Illustrator",
-        "Jest",
-        "JIRA",
-        "LESS",
         "Material UI",
-        "Meteor.js",
-        "Regexp",
-        "REST",
-        "SASS",
-        "Semantic UI",
-        "Socket.io",
-        "Stylus",
-        "Styled Components",
-        "Vanilla JS",
-        "Underscore / Lodash",
-        "Counter-Strike"
+        "R",
+        "Python"
       ]
     }
   },
   "experience": [
     {
       "company": {
-        "name": "N-iX",
+        "name": "Cryptowerk",
         "logoHeight": 40,
-        "logo": "n-ix.svg",
-        "period": "March 2018 - now"
+        "logo": "cryptowerk.svg",
+        "period": "June 2019 - Present"
       },
       "projects": [
         {
-          "name": "CleverBridge",
-          "logoHeight": 40,
-          "logo": "cleverbridge.svg",
-          "role": "JavaScript Tech Leader",
-          "description": "All-in-one ecommerce and subscription billing solution for software, SaaS & digital goods.",
-          "stack": {
-            "me": ["React JS", "Redux", "Apollo", "GraphQL", "Webpack", "AntD"],
-            "all": [".Net"]
-          },
-          "achievements": [
-            "Chose and approved tech stack with the client",
-            "Hired and built the team from scratch",
-            "Created frontend architecture",
-            "Regularly negotiated with stakeholders",
-            "Validated module requirements",
-            "Advised other client development teams",
-            "Conducted a code review and knowledge sharing",
-            "Communicated with backend team",
-            "Successfully released"
-          ]
-        }
-      ]
-    },
-    {
-      "company": {
-        "name": "MOQOD",
-        "logoHeight": 30,
-        "logo": "moqod.png",
-        "period": "August 2016 - March 2018"
-      },
-      "projects": [
-        {
-          "name": "Herofi",
+          "name": "Seal Lake",
           "logoHeight": 35,
-          "logo": "herofi.svg",
-          "role": "JavaScript Tech Leader",
-          "description": "HEROFi combines visual media and data visualization to create the most advanced retail entertainment networks in the world.",
+          "logo": "seal.svg",
+          "role": "VP Solutions",
+          "description": "Cryptowerk is a SaaS data security company. It's products use public blockchains like bitcoin and Ethereum as sources of truth for data intergrity. Kevin is responsible for pre-sales consulting and product management.",
           "stack": {
-            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
-            "all": ["AWS"]
+            "me": [
+              "React JS",
+              "GraphQL",
+              "REST APIs"
+            ],
+            "all": [
+              "Spark",
+              "Casandra",
+              "UnderTow Web Server",
+              "bitcoin",
+              "Ethereum"
+            ]
           },
           "achievements": [
-            "has built a team from scratch",
-            "successfully and predictably delivering of the product",
-            "high level of customer satisfaction",
-            "business objectives are met",
-            "a lot of my ideas were introduced and implemented (GitFlow, GitLab CI, Jira, new functionality)",
-            "insisted on rewriting the project - have borne fruit",
-            "chosen tech stack allow us to avoid hiring other professionals (C#, QT)",
-            "was proactive based on an understanding of the business, not just tech. requirements",
-            "mastered and taught new technologies (react + antd, redux, aws, jest)"
+            "Conceived and managed product development for two new offerings",
+            "Created product roadmap and feature set",
+            "Created frontend app to support multi-client",
+            "Created demos and pitched first customers",
+            "Advised other client development teams",
+            "Created docs site and swagger",
+            "Closed the company's largest deal during the pandemic.",
+            "Negotiated a complex software licensing option agreement tied to financing event.",
+            "Lead successful customer implementation"
           ]
         }
       ]
     },
     {
       "company": {
-        "name": "EPAM",
+        "name": "University of California, Davis",
+        "logoHeight": 30,
+        "period": "Oct 2018 - Present"
+      },
+      "projects": [
+        {
+          "name": "Lecturer, Graduate School of Management",
+          "logoHeight": 35,
+          "logo": "ucdavis.svg",
+          "role": "Lecturer, Graduate School of Management",
+          "description": "Mentoring Business Analytics students through their consulting practicum with industry partners.",
+          "stack": {
+            "me": [
+              "Mentoring",
+              "Coaching",
+              "Career advice",
+              "Experience sharing",
+              "Presentation feedbak"
+            ],
+            "all": []
+          },
+          "achievements": []
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Mix Sonoma",
         "logoHeight": 40,
-        "logo": "epam.svg",
-        "period": "June 2014 - August 2016"
+        "period": "Jan 2007 - Jun 2019"
       },
       "projects": [
         {
-          "name": "SportChek",
+          "name": "Operating Partner",
           "logoHeight": 40,
-          "logo": "sportchek.svg",
-          "role": "JavaScript Team Leader",
-          "description": "Interactive kiosk with multiple screens",
+          "role": "Operating Partner",
+          "description": "Mix Sonoma started as an investment vehicle for a few partners to make angel investments. It was then used as a brand while consulting to young companies. Depending on the situation, operating roles inside a company were taken to accelerate new business and product development. Below are some of those companies and Kevin's full-time roles:",
           "stack": {
-            "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
+            "me": []
           }
         },
         {
-          "name": "Adidas",
+          "name": "Knowing Technologies",
           "logoHeight": 60,
-          "logo": "adidas.svg",
-          "role": "Senior JavaScript developer",
-          "description": "Marketing portal for Adidas Group",
+          "logo": "knowingtech.png",
+          "role": "Partner, Knowing Technologies (May 2015 - Jul 2016)",
+          "description": "Partnered with company founder to grow the managed services and coaching business targeting private K-12 schools. Responsible for sales and marketing targeting California schools. Drove 170% year over year revenue growth",
           "stack": {
-            "me": ["Backbone.js", "Marionette.js", "REST", "Stylus", "Gulp"],
-            "all": ["Java"]
+            "me": [],
+            "all": []
+          }
+        },
+        {
+          "name": "Hazel Analytics",
+          "logoHeight": 60,
+          "logo": "hazel.png",
+          "role": "Consultant & Founding Shareholder, Hazel Analytics (Jun 2015 - Oct 2015)",
+          "description": "Commercialized university research on food safety health outcomes. Changed scoring methodology to something brands would embrace and promote rather than fear. Ran the first marketing campaigns and negotiated the company's first licensing deal in parallel to company formation, IP assignment, and CEO hire. Closed company's first customer in the high six figures. ",
+          "stack": {
+            "me": [],
+            "all": []
+          }
+        },
+        {
+          "name": "Vector Economics",
+          "logoHeight": 60,
+          "logo": "vectoreconomics.png",
+          "role": "Co-Founder and CEO, Vector Economics (Aug 2010 - May 2015)",
+          "description": "Vector Economics was a risk management software company. Kevin commercialized a probability distribution technology created by Stanford University professor as a way to better communicate and audit risks. He secured deals with first three paying customers (over $100k each) in financial services, defense and pharmaceutical industries. The core probability distribution technology has since evolved. You may learn more about it at ProbabilityManagement.org",
+          "stack": {
+            "me": [],
+            "all": []
+          }
+        },
+        {
+          "name": "Circos, Inc.",
+          "logoHeight": 60,
+          "logo": "circos.png",
+          "role": "Co-Founder and CEO, Circos, Inc. (Jan 2007 - Jul 2008 )",
+          "description": "Circos is a company that builds brands using virtual reality, digital marketing, and creative storytelling. Invested in and served as CEO of Circos (Brand Karma). The company was acquired in 2017. ",
+          "stack": {
+            "me": [],
+            "all": []
+          }
+        },
+        {
+          "name": "Angel Investor",
+          "logoHeight": 60,
+          "role": "Angel Investor, (Jan 2007 - May 2010)",
+          "description": "Angel investors in early-stage technology companies",
+          "stack": {
+            "me": [
+              "Circos (acquired)",
+              "Method (acquired)",
+              "Jivox",
+              "Hazel Analytics",
+              "et al"
+            ],
+            "all": [
+              "Demeter Energy (imploded)"
+            ]
           }
         }
       ]
     },
     {
       "company": {
-        "name": "CIKLUM",
-        "period": "January 2013 - June 2014",
+        "name": "Inforte",
+        "period": "Mar 1999 -  Mar 2005 ",
         "logoHeight": 50,
-        "logo": "ciklum.svg"
+        "logo": "businessdecision.png"
       },
       "projects": [
         {
-          "name": "Cutco",
+          "name": "Inforte",
           "logoHeight": 55,
-          "logo": "cutco.svg",
-          "role": "Senior JavaScript Developer",
-          "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
+          "role": "EVP & GM Business Intelligence",
+          "description": "As Executive Vice President and General Manager of Inforte (acquired by Business & Decisions, Kevin was responsible for leading Inforte's Business Intelligence practice. He sold and delivered successful multi-million dollar engagements to Global 1000 companies including Nike, NASA, Cadbury-Schweppes and Volkswagen Financial Services AG.",
           "stack": {
-            "me": ["Ember.js", "REST", "HTML", "SASS"],
-            "all": ["Java"]
+            "me": [],
+            "all": []
           }
         },
         {
-          "name": "Ovia Health",
-          "logoHeight": 30,
-          "logo": "ovia_health.svg",
-          "role": "Senior Frontend Developer",
-          "description": "Ovia Health delivers the #1 health solution for women and families.",
+          "name": "Compendit",
+          "logoHeight": 60,
+          "logo": "compendit.png",
+          "role": "Founder and CEO, Compendit (Mar 1999 - acquired Mar 2004)",
+          "description": "Starting with $60k in savings, Kevin grew the company from 2 - 56 employees with an international subsidiary. The company was sold it to a public company 5 years later for about $13 million.  The Compendit was named a 2001 Hot 100 company by Entrepreneur Magazine.",
           "stack": {
-            "me": ["jQuery", "HTML", "SASS", "Django", "Bootstrap", "Twig"],
-            "all": ["PHP", "Symphony"]
+            "me": [
+              "SAP BW",
+              "ETL",
+              "Informatica",
+              "Business Objects"
+            ],
+            "all": []
           }
         }
       ]
     },
     {
       "company": {
-        "name": "LUXOFT",
-        "period": "March 2011 - January 2013",
+        "name": "SAP",
+        "period": "Dec 1993 - Dec 1999",
         "logoHeight": 70,
-        "logo": "luxoft.svg"
+        "logo": "sap.svg"
       },
       "projects": [
         {
-          "name": "Medialogia",
+          "name": "Consultant",
           "logoHeight": 40,
-          "logo": "medialogia.svg",
-          "role": "Web developer",
-          "description": "Service for evaluating the effectiveness of communications #1 in terms of sources: 800 million SOCMEDIA and 49000 mass media",
+          "role": "Mulitpe Roles",
+          "description": "Kevin filled a variety of roles at SAP while working in the US and in Germany. The role he is most remembered for was that of Program Manager during the market launch of the SAP Business Information Warehouse (SAP BW).",
           "stack": {
-            "me": ["Backbone.js", "REST", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": [".Net"]
-          }
-        },
-        {
-          "name": "Hotwire",
-          "logoHeight": 40,
-          "logo": "hotwire.svg",
-          "role": "Web developer",
-          "description": "Hotwire is a travel website that can be used to book airline tickets, hotel rooms, rental cars, and vacation packages. It operates by selling off unsold travel inventory at discounted prices.",
-          "stack": {
-            "me": ["Javascript", "CSS", "JSP"],
-            "all": ["Java", "Spring"]
-          }
-        }
-      ]
-    },
-    {
-      "company": {
-        "name": "ISRA Group",
-        "period": "June 2009 - March 2011"
-      },
-      "projects": [
-        {
-          "name": "Trading systems",
-          "role": "HTML developer",
-          "description": "Trading systems",
-          "stack": {
-            "me": ["Wordpress", "Drupal", "Joomla", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": ["PHP"]
+            "me": [
+              "Consulting",
+              "Product Management",
+              "Product Requirements",
+              "Public Speaking",
+              "Analyst Relations",
+              "Product Roadmap"
+            ],
+            "all": []
           }
         }
       ]
@@ -361,54 +432,40 @@
   ],
   "volunteer": [
     {
-      "place": "Bionic University",
-      "logo": "bionic.png",
-      "logoHeight": 50,
-      "period": "2015",
-      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
+      "place": "E&Y Entrepreneur of The Year",
+      "logo": "ey.jpeg",
+      "logoHeight": 30,
+      "text1": "2004 Ernst & Young Entrepreneur of the Year regional finalist.",
+      "text2": "Compendit was 56# on Entrepreneur Magazine's list of America's Hot 100 fastest-growing new businesses in 2002."
     }
   ],
   "education": [
     {
-      "place": "Kiev Institute of Business and Technologies (KIBT)",
-      "period": "2012 - 2014",
-      "degree": "Bachelor's Degree, Management, Managment of business activities"
-    },
+      "place": "Saint Joseph's College",
+      "logo": "sjc.png",
+      "period": "1987 - 1991",
+      "degree": "Bachelor's Degree: Magna Cum Laude (Management Information Systems)",
+      "text1": "Awards: The Wall St. Journal Award and Outstanding Computer Science Student ",
+      "text2": "Activities: NCAA Division 2 Basketball"
+    }
+  ],
+  "publication": [
     {
-      "place": "Moscow State Institute of Radio engineering, Electronics and Automation (MIREA)",
-      "period": "2007 - 2012",
-      "degree": "Master's Degree, Computer Science And Information Technologies, Software and computing systems (software engineer)"
+      "place": "Lead author",
+      "logo": "wiley.jpeg",
+      "period": "2001 & 2004",
+      "text1": "Mastering SAP Business Information Warehouse was published first in 2001 with a second edition being released in 2004.",
+      "url": "http://www.amazon.com/Mastering-SAP-Business-Information-Warehouse/dp/0764596373/"
     }
   ],
   "recommendations": [
     {
-      "name": "Alexey Morozov",
-      "jobTitle": "Delivery Manager",
-      "photo": "alex.jpg",
-      "linkedin": "https://www.linkedin.com/in/morozovalexey/",
-      "text": "I've worked with or around Marat at N-iX for about a year and I've been consistently impressed with his passion and drive for quality software. He strives for excellence in all he does is able to build quality into everything he works on.\n\n Moreover, we've been working together on several projects before N-iX and Marat led all of them to a production-ready solution that was scalable and ready to bring value to the business. As a Technical Lead Marat was able to take the idea from Stakeholders, introduce decomposition and deliver the end-solution. He was responsible for technical excellence and people management within the team. He guided everyone towards one end goal!"
-    },
-    {
-      "name": "Nikolay Mirkula",
-      "jobTitle": "Software Engineer",
-      "photo": "nick.jpg",
-      "linkedin": "https://www.linkedin.com/in/nikolay-mirkula-bb0b9ab6/",
-      "text": "Marat is an amazing professional, who brings all of the skills and expertise in programming and web development. His productivity and ambition sets a great example for the rest of the team. It was indeed a wonderful thing to work with him as the Lead Frontend Engineer at Moqod company.\n\n As a colleague, I recommend him to other institutions who may want to hire his most treasured skills"
-    },
-    {
-      "name": "Michael Sebastiyan",
-      "jobTitle": "Senior Software Engineer",
-      "photo": "mike.jpg",
-      "linkedin": "https://www.linkedin.com/in/msebastiyan/",
-      "text": "Marat is an excellent software engineer. He's very passionate about tech, building great user experiences, and improving the project codebase. He's a very high value add to every team he works on."
-    },
-    {
-      "name": "Sergii Kalashnykov",
-      "jobTitle": "Test Engineer",
-      "photo": "sergii.jpg",
-      "linkedin": "https://www.linkedin.com/in/skalashnikov/",
-      "text": "It was a pleasure working with Marat. He is a very talented passionate JavaScript developer, and a good friend. During that time I was impressed with his skill set and the way he could think through problems and find a solution for them. I would be happy to work with him again in the future."
+      "name": "Jim Puccetti",
+      "jobTitle": "Director Instructional Technology",
+      "photo": "jim.jpeg",
+      "linkedin": "https://www.linkedin.com/in/jim-puccetti-3a7570a0/",
+      "text": "Kevin is a true entrepreneur. His experience as a business leader speaks for itself. I had the pleasure of working with Kevin for over a year. His acute awareness of effective sales strategy and client relations was impressive. Kevin thinks big, and I regularly found myself engaging in creative and forward-thinking conversations with him. He adds enthusiasm to the workplace and understands how to take businesses from good to great. I hope to continue working with Kevin in the future!"
     }
   ],
-  "footer": "Dospolov.com © 2020"
+  "footer": "Made with ❤️ and open source software."
 }

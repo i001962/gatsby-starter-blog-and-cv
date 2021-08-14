@@ -1,14 +1,14 @@
 [
   {
-    "name": "Account Surfer",
-    "logo": "/logos/as.svg",
-    "description": "Quickly switch between accounts and browsers.",
-    "link": "/posts/handle-chrome-profiles-with-account-surfer"
+    "name": "POV - Data Privacy",
+    "logo": "/tech/gundb.svg",
+    "description": "Big Tech is in for a wake-up call. There are powerful new protocols for the internet that bring decentralization and real privacy to the masses. Developers are reclaiming the web and making it truly free and open.",
+    "link": "https://chat.gun.eco"
   },
   {
-    "name": "Trello Bookmark",
-    "logo": "/logos/trello-bookmark.svg",
-    "description": "Store your bookmarks as Trello Cards.",
-    "link": "/posts/trello-plus-gtd-equals-trello-bookmark"
+    "name": "POV - Smart Contract Proliferation",
+    "logo": "/companies/decentology.png",
+    "description": "Smart contracts have huge advantages over traditional agreements. The tooling to create smart contracts will mimic the low/no-code movement. We will see millions of smart contracts each composible like lego pieces.",
+    "link": "https://discord.gg/qVUxyx4Em8"
   }
 ]

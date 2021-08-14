@@ -1,96 +1,30 @@
 ---
 template: post
-title: Trello + GTD = Trello Bookmark
-slug: /posts/trello-plus-gtd-equals-trello-bookmark
+title: Productivity apps are missing the point
+slug: /posts/productivity-apps-are-missing-the-point
 draft: false
 priority: 5
-date: 2019-03-27T00:46:37.121Z
+date: 2021-08-13T00:46:37.121Z
 description: >-
-  You know, I hate routine.
-
-  But one of the greatest things about being a programmer is that you can
-  automate your routine.
+  Let's face it, we're all digital hoarders. The moment that information 'chucks' are combined into a document is when the re-use of those small chunks get limited to only one idea or person who needs them.
 category: productivity
 tags:
-  - trello
-  - gtd
-  - chrome
-  - plugin
+  - popstack
+  - gpt3
 ---
+It's time professional software started embracing new realities instead of focusing solely on creating longer chunks which do very little except frustrate us further at times by taking up valuable space on our screens.
 
-You know, I hate routine.
+Let's face it, we're all digital hoarders. The moment that information 'chucks' are combined into a document is when the re-use of those small chunks get limited to only one idea or person who needs them. This means now you must deconstruct documents into smaller fragments and choose relevant parts as needed to express another idea - which can be tedious!
 
-But one of the greatest things about being a programmer is that you can automate your routine.
+Today’s business environment is one in which ideas are constantly being generated and new products developed. In this scenario, documents often need to be broken up into pieces that can then be incorporated with other information for a final product. Why do productivity and collaboration applications still focus on creating the traditional document? 
 
----
+Social media and messaging platforms such as Facebook, Instagram, Snapchat, Twitter are transforming the way we communicate with one another. One of these changes is that individuals now can create content on their own instead of relying on a company or outlet to produce it for them.
 
-As bequeathed by David Allen, in his brilliant GTD: “Put everything out needless of your head to keep it clean and concentrated.”
+The problem? Complex ideas needed in professional productivity cannot be created through social media alone; they need time-consuming effort like developing documentation before other people can understand what you mean - which means your employees may not know how much work goes into creating this type of material without firsthand experience because all they see is an occasional post from someone else detailing a project's progress step by step!
 
-Let’s see what gets there:
+Presentation interfaces must become dynamic workspaces. The workspace needs to be as effective at communicating complex information in different formats and styles, while also being easy for users to reorganize the content they want on their screen quickly.
 
-- ideas (develop an Android app for blind puppies);
-- tasks (take out the cat, pet the trash, pass the report);
-- projects with detailed plans and task lists (trip to Somalia, meeting the girl’s parents);
-- notes (Mike snores, not worth to live with him in one tent).
-
-Typically, the practical application of GTD in Trello ends here. However, if you look carefully, you should add browser bookmarks here. Many of us just save them in the browser. They accumulate there and eventually remain without attention.
-
-There are several standard solutions for adding a card to Trello:
-
-- Trello application for the desktop.
-
-![Trello desktop](/media/trello-gtd/01.png 'Trello desktop')
-
-However, this is not very suitable for saving bookmarks, because you cannot add a screenshot. The link fits into the description, not as an attachment. So the name of the bookmark will have to be typed manually.
-
-- Trello chrome extensions. It has many solutions, varying degrees of readiness and stability. In any case, you cannot upload a screenshot or you have got a lot of manual work.
-- Manually create a card on Trello.com. It is suitable for people who have a lot of free time.
-
-Upon the whole, not finding a suitable solution — I wrote my own plugin. Meet [Trello Bookmark](https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca)!
-
-Here’s what it has:
-
-- board and list selection (personal and team);
-- position in the list;
-- name of the card;
-- description;
-- link (as an attachment);
-- cover;
-- labels;
-- due date;
-- assignee;
-
-And additionally to above-stated:
-
-- it supports hotkeys (keyboard navigation through tab and arrows, saving by CTRL + enter);
-- advanced logic field by default.
-
-![Trello Bookmark default locations](/media/trello-gtd/02.png 'Trello Bookmark default locations')
-
-You can link the site you often visit a specific path for the card and the plugin will offer it by default. This means that you relieved to enter the address every time. You can also give a special path for a new browser tab. Then the plugin will open with empty fields (convenient for saving quick tasks to inbox):
-
-![Google Chrome new tab with Trello Bookmark](/media/trello-gtd/03.png 'Google Chrome new tab with Trello Bookmark')
-
-If the plugin is opened on a site that is not added in the settings, the last used path is suggested. All these features may seem overkill, but if you add tens or hundreds of cards a day, they save you a lot of time.
-
-Here’s what one of the boards with my girlfriend looks like:
-
-![Trello cooking board](/media/trello-gtd/04.png 'Trello cooking board')
-
-You may have noticed that my new chrome tab looks unusual.
-
-I was always annoyed that I couldn’t get a summary of tasks from different boards and teams in Trello and make a list for the day. And this is very important, especially if you follow the M. I. T. technique.
-
-As a result, thanks to the Open Trello API, I made another plugin that pulls out cards according to a certain criterion:
-
-![Trello Picker](/media/trello-gtd/05.png 'Trello Picker')
-
-At the moment, this criterion is the presence of a red label “!!!”. In the future, I will add the ability to put down your criteria: for example, tasks with a deadline for today.
-
-While the plugin is not available for public use, write in the comments or me on marat.dospolov@gmail.com if you want to get it faster.
+The [Popstack.ai](http://popstack.ai') vision is to turn information fragments into building blocks that you can stack and rearrange into self-contained streams of information - like social media and messaging, the act of consuming collections of tiny bits stimulates readers to engage with stories more easily. Any individual building block can be reused in a different stream or shared out for those who want an easy way getting caught up on what's going around them!
 
 ---
-
-Trello is an amazing tool that can solve most of your tasks, especially if you apply a little magic!
-
-![“One ring to rule them all.”](/media/trello-gtd/06.png '“One ring to rule them all.”')
+If you've read this far, you're probably thinking, "What the hell is this?" Well, I'm not sure. I'm just trying to get you to read the next few paragraphs. Just kidding. More seriously, I'm not writing this post. This entire article was written with the intention of helping you understand why you're missing the point but since it's using [GPT-3 technology](https://openai.com/blog/gpt-3-apps/), it's not going to be easy to understand. AI is still very much in its infancy but it's already making huge strides. What I did to create this article was to create a simple AI that could generate a document of the correct length and format. I fed it a bunch of ideas and then asked it to generate a document. It did this by using a combination of Markov chains and a few other techniques to create a document that was as close to the original as possible. My colleague [@philip_lipetzpetz](https://twitter.com/philip_lipetz) created the original version of this [article](https://medium.com/@philip.lipetz/productivity-in-the-age-of-information-fragments-47b53811151e) which is much more pleasant to read.
