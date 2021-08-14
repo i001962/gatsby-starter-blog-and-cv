@@ -228,7 +228,6 @@
         {
           "name": "Seal Lake",
           "logoHeight": 35,
-          "logo": "seal.svg",
           "role": "VP Solutions",
           "description": "Cryptowerk is a SaaS data security company. It's products use public blockchains like bitcoin and Ethereum as sources of truth for data intergrity. Kevin is responsible for pre-sales consulting and product management.",
           "stack": {
@@ -269,7 +268,6 @@
         {
           "name": "Lecturer, Graduate School of Management",
           "logoHeight": 35,
-          "logo": "ucdavis.svg",
           "role": "Lecturer, Graduate School of Management",
           "description": "Mentoring Business Analytics students through their consulting practicum with industry partners.",
           "stack": {
