@@ -3,7 +3,7 @@
     "name": "KEVIN MCDONALD",
     "position": "ENTREPRENEURIAL TECH LEADER AND HACKER",
     "img": {
-      "src": "photo.jpg",
+      "src": "../photo.jpg",
       "alt": "Kevin McDonald"
     },
     "location": "Woodside, CA",
