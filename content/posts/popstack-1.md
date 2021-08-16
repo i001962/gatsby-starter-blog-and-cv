@@ -3,7 +3,7 @@ template: post
 title: Productivity apps are missing the point
 slug: /posts/productivity-apps-are-missing-the-point
 draft: false
-priority: 5
+priority: 0 
 date: 2021-08-13T00:46:37.121Z
 description: >-
   Let's face it, we're all digital hoarders. The moment that information 'chucks' are combined into a document is when the re-use of those small chunks get limited to only one idea or person who needs them.

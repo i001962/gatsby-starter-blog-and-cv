@@ -268,7 +268,7 @@
         {
           "name": "Lecturer, Graduate School of Management",
           "logoHeight": 35,
-          "role": "Lecturer, Graduate School of Management",
+          "role": "Lecturer, Graduate School of Management (part-time)",
           "description": "Mentoring Business Analytics students through their consulting practicum with industry partners.",
           "stack": {
             "me": [
@@ -278,6 +278,26 @@
               "Experience sharing",
               "Presentation feedbak"
             ],
+            "all": []
+          },
+          "achievements": []
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Gerald's Salon",
+        "logoHeight": 30,
+        "period": "March 2018 - Present"
+      },
+      "projects": [
+        {
+          "name": "Co-owner & Board Member",
+          "logoHeight": 35,
+          "role": "Co-owner & Board Member",
+          "description": "Inherited 50 year old, full-service hair salon.",
+          "stack": {
+            "me": [],
             "all": []
           },
           "achievements": []
