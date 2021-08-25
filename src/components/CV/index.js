@@ -30,7 +30,6 @@ const CV = () => (
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
       {data.education && <Education education={data.education} />}
       {data.publication && <Publications publication={data.publication} />}
-
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
       {data.footer && <Footer footer={data.footer} />}
     </Content>
