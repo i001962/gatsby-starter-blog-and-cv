@@ -22,7 +22,7 @@ module.exports = {
   author: {
     name: 'Kevin McDonald',
     photo: '/photo.jpg',
-    bio: 'Entrepreneuer. Hacker. Mentor.',
+    bio: 'Entrepreneur. Hacker. Mentor.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
